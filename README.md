@@ -12,9 +12,11 @@
 **Applications:** Data storage, website hosting, backups, analytics, and ML dataset storage.  
 
 **Output:**  
-![Fig 1](https://private-user-images.githubusercontent.com/144928933/505121585-6213fc90-740d-43c5-96eb-b200feccbc0a.png)  
-![Fig 2](https://private-user-images.githubusercontent.com/144928933/505121779-d2093518-929f-4ae6-bb42-d1a16c1b7080.png)  
-![Fig 3](https://private-user-images.githubusercontent.com/144928933/505121779-d2093518-929f-4ae6-bb42-d1a16c1b7080.png)  
+![image](https://github.com/user-attachments/assets/cb05b6b1-2704-4f40-827b-e3ac9cdcef08)
+![image](https://github.com/user-attachments/assets/6002365e-8607-4580-bdd1-588a81f3bddb)
+![image](https://github.com/user-attachments/assets/7671fdce-228b-491a-a248-166e2270464e)
+
+
 
 **Result:** The S3 bucket was successfully created and appears in the AWS Console for data management and storage.
 
@@ -26,9 +28,10 @@
 **Applications:** Hosting, ML model deployment, database hosting, backups, and game servers.  
 
 **Output:**  
-![Fig 1](https://private-user-images.githubusercontent.com/144928933/505121585-6213fc90-740d-43c5-96eb-b200feccbc0a.png)  
-![Fig 2](https://private-user-images.githubusercontent.com/144928933/505121779-d2093518-929f-4ae6-bb42-d1a16c1b7080.png)  
-![Fig 3](https://private-user-images.githubusercontent.com/144928933/505121779-d2093518-929f-4ae6-bb42-d1a16c1b7080.png)  
+![image](https://github.com/user-attachments/assets/81640e69-13fb-4af6-a930-217496ee663a)
+![image](https://github.com/user-attachments/assets/adaf95c5-a017-419b-9c48-e95e25bf584f)
+![image](https://github.com/user-attachments/assets/a7674318-5109-4db9-9ab2-6047af7c52c3)
+
 
 **Result:** The EC2 instance was successfully launched, accessed, and terminated via the AWS Management Console.
 
