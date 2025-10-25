@@ -25,9 +25,12 @@ To create a cloud instance in the AWS server for creating cloud storage (S3 Buck
 - Machine Learning dataset storage  
 
 ### Output
-![S3 Output 1](https://github.com/user-attachments/assets/cb05b6b1-2704-4f40-827b-e3ac9cdcef08)  
-![S3 Output 2](https://github.com/user-attachments/assets/6002365e-8607-4580-bdd1-588a81f3bddb)  
-![S3 Output 3](https://github.com/user-attachments/assets/7671fdce-228b-491a-a248-166e2270464e)  
+![image](https://github.com/user-attachments/assets/8d90fa36-aa62-44a7-8596-a0659021b01e)
+
+![image](https://github.com/user-attachments/assets/9a6010c8-f0df-46d3-988e-3a222b575eb5)
+
+![image](https://github.com/user-attachments/assets/643a1490-2ed8-4fdd-a8ec-39ff2ae83d1b)
+
 
 ### Result
 The S3 bucket was successfully created and appears in the AWS Console for data management and storage.  
@@ -47,6 +50,7 @@ To create a virtual machine instance in the AWS server using EC2.
 5. Select **Instance Type:** t2.micro  
 6. Configure and launch using a **key pair**  
 
+
 ### Applications
 - Web hosting  
 - Machine Learning model deployment  
@@ -54,10 +58,15 @@ To create a virtual machine instance in the AWS server using EC2.
 - Backup services  
 - Game server hosting  
 
+
 ### Output
-![EC2 Output 1](https://github.com/user-attachments/assets/81640e69-13fb-4af6-a930-217496ee663a)  
-![EC2 Output 2](https://github.com/user-attachments/assets/adaf95c5-a017-419b-9c48-e95e25bf584f)  
-![EC2 Output 3](https://github.com/user-attachments/assets/a7674318-5109-4db9-9ab2-6047af7c52c3)  
+![image](https://github.com/user-attachments/assets/0272c6e9-03a3-41b9-b867-aab56faee41d)
+
+![image](https://github.com/user-attachments/assets/71e915a8-14cb-45bb-bc40-f014f007df40)
+
+![image](https://github.com/user-attachments/assets/f0200edc-80bf-4785-8285-681280e627fb)
+
+
 
 ### Result
 The EC2 instance was successfully launched, accessed, and terminated via the AWS Management Console.
