@@ -25,7 +25,8 @@ To create a cloud instance in the AWS server for creating cloud storage (S3 Buck
 - Machine Learning dataset storage  
 
 ### Output
-![image](https://github.com/user-attachments/assets/8d90fa36-aa62-44a7-8596-a0659021b01e)
+![image](https://github.com/user-attachments/assets/2e90135c-621a-4f4e-8d4b-7b6a4fa755f0)
+
 
 ![image](https://github.com/user-attachments/assets/9a6010c8-f0df-46d3-988e-3a222b575eb5)
 
